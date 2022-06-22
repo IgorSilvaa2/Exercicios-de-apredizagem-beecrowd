@@ -1,1 +1,1 @@
-Olá ! aqui encontra-se meus trabalhos e exercícios feitos durante meu desenvolvimento .
+Olá ! aqui encontra-se meus  exercícios feitos do site https://www.beecrowd.com.br/judge/pt para  meu desenvolvimento com programação c# .
