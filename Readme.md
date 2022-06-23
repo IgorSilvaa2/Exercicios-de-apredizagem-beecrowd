@@ -1,1 +1,3 @@
-Olá ! aqui encontra-se meus  exercícios feitos do site https://www.beecrowd.com.br/judge/pt para  meu desenvolvimento com programação c# .
+Olá ! aqui encontra-se meus  exercícios feitos do site beecrowd para  meu desenvolvimento com programação c# .
+
+https://www.beecrowd.com.br/judge/ 
