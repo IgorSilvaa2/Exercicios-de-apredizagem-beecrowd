@@ -5,10 +5,10 @@ namespace Exercicios_e_treinos
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[ ] args)
         {
             int N;
-            double[] vet;
+            double[ ] vet;
 
             N = int.Parse(Console.ReadLine());
             vet = new double[N];
@@ -16,7 +16,7 @@ namespace Exercicios_e_treinos
             soma = 0.0;
             media = 0.0;
 
-            string[] vet2 = Console.ReadLine().Split(' ');
+            string[ ] vet2 = Console.ReadLine( ).Split(' ');
 
             for (int i = 0; i < N; i++)
             {
