@@ -9,3 +9,4 @@ Entre a largura e altura do retângulo:
 AREA = 12.00
 PERÍMETRO = 14.00
 DIAGONAL = 5.00
+.
